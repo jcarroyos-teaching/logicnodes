@@ -1,6 +1,4 @@
-### Argumento lógico para una experiencia pedagógica con Geometry Nodes en Blender
-
-**Título:** **"Lógica Visual y Creatividad: Introducción a Geometry Nodes como Ejercicio de Programación para Jóvenes Creadores Digitales"**
+# Lógica Visual y Creatividad: Introducción a Geometry Nodes como Ejercicio de Programación para Creación Digital
 
 **Contexto y Justificación:**  
 En el diseño frontend, la creatividad aplicada requiere una comprensión sólida de conceptos fundamentales como la lógica, el procesamiento de datos, la parametrización y los atributos. Sin embargo, para muchos jóvenes creadores digitales, estos conceptos pueden parecer abstractos o desconectados de la práctica creativa. Geometry Nodes en Blender ofrece una plataforma visual e interactiva que combina programación lógica con diseño generativo, lo que facilita la conexión entre la teoría y la aplicación práctica en un entorno creativo.  
